@@ -12,7 +12,7 @@ Proje yapısını aşağıda ekran resmindeki gibi oluşturdum.
 
 ![Adsız](https://github.com/KenancanA/mobile-test/assets/125500622/f2c7b541-3e92-49fc-a174-2d7ef78f596f)
 
-Proje ile ilgili bir kaç ekran gçrüntüsünü aşağıya bırakıyorum.
+Proje ile ilgili bir kaç ekran görüntüsünü aşağıya bırakıyorum.
 
 
 ![aa](https://github.com/KenancanA/mobile-test/assets/125500622/8b99d831-3de6-48e8-b9be-be080f782cce)
